@@ -26,6 +26,8 @@ public class Test {
          //Éú³É¶şÎ¬Âë  
          File outputFile = new File("d:"+File.separator+"new.gif");  
          MatrixToImageWriter.writeToFile(bitMatrix, format, outputFile);  
+         
+         System.out.println("test");
 
 	}
 
