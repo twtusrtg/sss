@@ -24,5 +24,6 @@ public class Tools {
          //Éú³É¶þÎ¬Âë  
          File outputFile = new File("d:"+File.separator+"er"+File.separator+filename+".gif");  
          MatrixToImageWriter.writeToFile(bitMatrix, format, outputFile);  
+         System.out.println("tool");
 	}
 }
