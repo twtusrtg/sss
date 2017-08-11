@@ -125,7 +125,7 @@ public class ggff {
 		ggff im = new ggff();
 
 		// im.readExcel("d:/123.xls");
-		im.readExcel("d:/aa1.xlsx");
+		im.readExcel("d:/aa12.xlsx");
 		// im.readExcel("F:/2007.xls"); //2007ÏÂ±£´æÎª2003
 
 	}
