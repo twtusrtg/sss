@@ -36,6 +36,7 @@ public class T {
 					student.setAge(getValue(age));
 					student.setScore(Float.valueOf(getValue(score)));
 					list.add(student);*/
+					System.out.println(1111111111);
 				}
 			}
 		}
