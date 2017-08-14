@@ -29,8 +29,6 @@ public class Test {
          
          System.out.println("test");
          
-         int i = 1;
-
 	}
 
 }
