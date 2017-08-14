@@ -28,6 +28,8 @@ public class Test {
          MatrixToImageWriter.writeToFile(bitMatrix, format, outputFile);  
          
          System.out.println("test");
+         
+         int i = 1;
 
 	}
 
